@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Analytics Kit Example</string>
+    <string name="check_button">Check</string>
+    <string name="submit_button">Submit</string>
+</resources>
